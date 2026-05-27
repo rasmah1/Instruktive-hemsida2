@@ -206,7 +206,7 @@ td {
     padding: 2em;
 }
 
-.Coursbtn button {
+.Coursbtn a {
     padding: .75em;
     border: none;
     background-color: white;
@@ -214,6 +214,8 @@ td {
     font-weight: 550;
     border-radius: .75em;
     transition: 250ms;
+    color: black;
+    text-decoration: none;
 }
 
 .Coursbtn button:hover {
